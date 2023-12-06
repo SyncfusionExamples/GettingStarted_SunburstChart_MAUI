@@ -1,5 +1,7 @@
 # GettingStarted_SunburstChart_MAUI.
 
+<img width="951" alt="SunburstChart" src="https://github.com/SyncfusionExamples/GettingStarted_SunburstChart_MAUI/assets/105482474/49bd5762-2a36-456b-a5c3-d4867d93527d"/>
+
 ## Creating an application using the .NET MAUI Sunburst Chart
 
 1. Create a new .NET MAUI application in Visual Studio.
@@ -354,6 +356,3 @@ The following code example gives you the complete code of above configurations.
         }
     }
 ```
-The following chart is created as a result of the previous codes.
-
-<img width="951" alt="SunburstChart" src="https://github.com/SyncfusionExamples/GettingStarted_SunburstChart_MAUI/assets/105482474/49bd5762-2a36-456b-a5c3-d4867d93527d"/>
