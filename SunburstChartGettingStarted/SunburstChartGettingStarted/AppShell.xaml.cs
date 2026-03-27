@@ -1,12 +1,10 @@
 ﻿namespace SunburstChartGettingStarted
 {
-    public partial class App : Application
+    public partial class AppShell : Shell
     {
-        public App()
+        public AppShell()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
         }
     }
 }
